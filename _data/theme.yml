@@ -95,7 +95,7 @@ bootswatch: sketchy
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#663300"
-link-color: "#ffff99"
+link-color: "#579f47"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
